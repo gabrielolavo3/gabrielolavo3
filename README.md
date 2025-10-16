@@ -1,4 +1,7 @@
-### “Nada acontece duas vezes da mesma maneira.” 🦁
+### “Ou será a velha e sábia Corvinal,
+A casa dos que têm a mente sempre alerta,
+Onde os homens de grande espírito e saber
+Sempre encontrarão companheiros seus iguais.” 🐦‍⬛
 
 <!--
 **gabrielolavo3/gabrielolavo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
