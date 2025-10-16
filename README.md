@@ -1,4 +1,4 @@
-### “Ninguém no mundo consegue o que quer e isso é bonito.” 👀
+### “Nada acontece duas vezes da mesma maneira.” 🦁
 
 <!--
 **gabrielolavo3/gabrielolavo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
