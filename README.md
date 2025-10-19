@@ -1,4 +1,4 @@
-### “Ou será a velha e sábia Corvinal, a casa dos que têm a mente sempre alerta,”
+### “Ou será a velha e sábia Corvinal, a casa dos que têm a mente sempre alerta,
 ### “Onde os homens de grande espírito e saber sempre encontrarão companheiros seus iguais.” 🐦‍⬛
 
 <!--
