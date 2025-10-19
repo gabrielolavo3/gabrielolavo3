@@ -1,5 +1,4 @@
-### “Ou será a velha e sábia Corvinal, a casa dos que têm a mente sempre alerta,
-### “Onde os homens de grande espírito e saber sempre encontrarão companheiros seus iguais.” 🐦‍⬛
+### “Ou será a velha e sábia Corvinal, a casa dos que têm a mente sempre alerta. Onde os homens de grande espírito e saber sempre encontrarão companheiros seus iguais.” 🐦‍⬛
 
 <!--
 **gabrielolavo3/gabrielolavo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
