@@ -1,4 +1,5 @@
 ### Pensamento duplo indica a capacidade de ter na mente, ao mesmo tempo, duas opiniões contraditórias e aceitar ambas 👁️
+### - 1984
 
 <!--
 **gabrielolavo3/gabrielolavo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
