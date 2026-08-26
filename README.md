@@ -97,7 +97,14 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 
 ---
 
-### 📫 Contatos
+### 🎱 Formação
+
+- Técnico em **Desenvolvimento de Sistemas** no **SENAI Dendezeiros**.
+- Cursando 2º semestre de **Engenharia de Software** na **UCSal**.
+
+---
+
+### 📟 Contatos
 
 Caso desejar me encontrar para **criar um código**, participar de um projeto **ou simplesmente jogar e conversar**, talvez me encontre usando um dos contatos abaixo.
 
