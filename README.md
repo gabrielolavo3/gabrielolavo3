@@ -2,9 +2,11 @@
 
 **`Software Engineer in training`**
 
-Sou estudante de **Engenharia de Software**, mergulhando fundo no desenvolvimento de código e no processo de software nesse meu tempo na **[Universidade Católica do Salvador](https://www.ucsal.br/)**.
+### 🧠 Sobre mim
 
-Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de programação**, enquanto escrevo código principalmente em **Java, C# ou JavaScript**.
+Sou estudante de **Engenharia de Software**, mergulhando fundo no desenvolvimento de código e no processo de software nesse meu tempo na **[Universidade Católica do Salvador](https://www.ucsal.br/)**. 
+
+Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de programação**, enquanto escrevo código principalmente em **Java, C# ou JavaScript**. 
 
 Quando não estou estudando ou treinando lógica de programação, geralmente você pode me encontrar **escutando uma música, lendo um livro ou jogando minha franquia favorita: [The Legend of Zelda](https://zelda.nintendo.com/about/).**
 
@@ -100,14 +102,21 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 - Técnico em **Desenvolvimento de Sistemas** no **SENAI Dendezeiros**.
 - Cursando 2º semestre de **Engenharia de Software** na **UCSal**.
 
----
-
 ### 📟 Contatos
-
-Caso desejar me encontrar para **criar um código**, participar de um projeto **ou simplesmente jogar e conversar**, talvez me encontre usando um dos contatos abaixo.
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-santos-olavo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://discord.com/users/1169471707082412154" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
   <a href="mailto:gabrielsantosolavo101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
+
+---
+
+### 🌊 Inspiração
+
+> _"Você vai encontrar muitas dificuldades pela frente...  
+> Esse é o seu destino. Não desanime, nem mesmo nos momentos mais difíceis!"_
+>
+> _— Kaepora Gaebora, The Legend of Zelda_
+
+---
