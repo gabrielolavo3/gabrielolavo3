@@ -4,26 +4,11 @@
 
 ### 🧠 Sobre mim
 
-<table>
-    <tr>
-    <td width="30%" align="center" valign="middle">
-        <img style="border-radius: 10px"
-            src="https://i.pinimg.com/736x/91/7d/eb/917deb7fb75acfea0d30e59610174b79.jpg"
-            width="300px"            
-            alt="The Legend of Zelda"/>
-    </td>
-
-<td width="70%" valign="middle">
-
 Sou estudante de **Engenharia de Software**, mergulhando fundo no desenvolvimento de código e no processo de software nesse meu tempo na **[Universidade Católica do Salvador](https://www.ucsal.br/)**.
 
 Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de programação**, enquanto escrevo código principalmente em **Java, C# ou JavaScript**.
 
 Quando não estou estudando ou treinando lógica de programação, geralmente você pode me encontrar **escutando uma música, lendo um livro ou jogando minha franquia favorita: [The Legend of Zelda](https://zelda.nintendo.com/about/).**
-
-</td>
-    </tr>
-</table>
 
 ---
 
