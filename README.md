@@ -106,8 +106,6 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 
 ### 📟 Contatos
 
-Caso desejar me encontrar para **criar um código**, participar de um projeto **ou simplesmente jogar e conversar**, talvez me encontre usando um dos contatos abaixo.
-
 <div>
   <a href="https://www.linkedin.com/in/gabriel-santos-olavo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://discord.com/users/1169471707082412154" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
@@ -121,6 +119,6 @@ Caso desejar me encontrar para **criar um código**, participar de um projeto **
 > _"Você vai encontrar muitas dificuldades pela frente...  
 > Esse é o seu destino. Não desanime, nem mesmo nos momentos mais difíceis!"_
 >
-> _— Kaepora Gaebora, The Legend of Zelda: Skyward Sword_
+> _— Kaepora Gaebora, The Legend of Zelda_
 
 ---
