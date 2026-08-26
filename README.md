@@ -4,11 +4,28 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de **Engenharia de Software**, mergulhando fundo no desenvolvimento de código e no processo de software nesse meu tempo na **[Universidade Católica do Salvador](https://www.ucsal.br/)**. 
+<table>
+    <tr>
+    <td width="30%" align="center" valign="middle">
+        <img style="border-radius: 10px"
+            src="https://i.pinimg.com/736x/91/7d/eb/917deb7fb75acfea0d30e59610174b79.jpg"
+            width="300px"            
+            alt="The Legend of Zelda"/>
+    </td>
 
-Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de programação**, enquanto escrevo código principalmente em **Java, C# ou JavaScript**. 
+<td width="70%" valign="middle">
+
+Sou estudante de **Engenharia de Software**, mergulhando fundo no desenvolvimento de código e no processo de software nesse meu tempo na **[Universidade Católica do Salvador](https://www.ucsal.br/)**.
+
+Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de programação**, enquanto escrevo código principalmente em **Java, C# ou JavaScript**.
 
 Quando não estou estudando ou treinando lógica de programação, geralmente você pode me encontrar **escutando uma música, lendo um livro ou jogando minha franquia favorita: [The Legend of Zelda](https://zelda.nintendo.com/about/).**
+
+</td>
+    </tr>
+</table>
+
+---
 
 ### 🚀 Linguagens e Tecnologias
 
@@ -28,7 +45,7 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>        
+/>
 
 <img 
     align="left"
@@ -38,16 +55,16 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-          
+
 <img 
     align="left"
-    alt="Csharp"
-    title="Csharp"
+    alt="C#"
+    title="C#"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  
 />
-                      
+
 <img
     align="left"
     alt="Java"
@@ -64,12 +81,12 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>          
+/>
 
 <img 
     align="left"
     alt="Visual Studio Code"
-    title="JavVisual Studio Codea"
+    title="Visual Studio Code"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
@@ -77,8 +94,8 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 
 <img 
     align="left"
-    alt="Intellij"
-    title="Intellij"
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
@@ -95,14 +112,16 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 
 <br clear="left"/>
 
----
-
 ### 🎱 Formação
 
 - Técnico em **Desenvolvimento de Sistemas** no **SENAI Dendezeiros**.
-- Cursando 2º semestre de **Engenharia de Software** na **UCSal**.
+- Cursando o 2º semestre de **Engenharia de Software** na **UCSal**.
+
+---
 
 ### 📟 Contatos
+
+Caso desejar me encontrar para **criar um código**, participar de um projeto **ou simplesmente jogar e conversar**, talvez me encontre usando um dos contatos abaixo.
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-santos-olavo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
@@ -117,6 +136,6 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 > _"Você vai encontrar muitas dificuldades pela frente...  
 > Esse é o seu destino. Não desanime, nem mesmo nos momentos mais difíceis!"_
 >
-> _— Kaepora Gaebora, The Legend of Zelda_
+> _— Kaepora Gaebora, The Legend of Zelda: Skyward Sword_
 
 ---
