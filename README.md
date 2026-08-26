@@ -8,8 +8,6 @@ Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de pr
 
 Quando não estou estudando ou treinando lógica de programação, geralmente você pode me encontrar **escutando uma música, lendo um livro ou jogando minha franquia favorita: [The Legend of Zelda](https://zelda.nintendo.com/about/).**
 
----
-
 ### 🚀 Linguagens e Tecnologias
 
 <img 
