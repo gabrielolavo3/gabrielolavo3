@@ -88,12 +88,13 @@ Quando não estou estudando ou treinando lógica de programação, geralmente vo
 
 <img 
     align="left"
-    alt="Linux Mint"
-    title="Linux Mint"
+    alt="Linux"
+    title="Linux"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+          
 
 <br clear="left"/>
 
