@@ -6,8 +6,8 @@
 
 - 🎓 Estudante de **Engenharia de Software** na **Universidade Católica do Salvador**.
 - ☕ Desenvolvendo projetos com Java, C# e MySQL.
-- 💡 Estudando sistemas operacionais e lógica de programação.
-- 🎵 Apreciador da música.
+- 💡 Compreendendo sobre sistemas operacionais e lógica de programação.
+- 🎸 Apaixonado por City Pop e pelas músicas dos anos 80.
 - 🎮 Fã do universo de [The Legend of Zelda](https://zelda.nintendo.com/about/).
 
 ---
