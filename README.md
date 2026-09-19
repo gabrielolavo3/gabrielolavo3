@@ -4,11 +4,11 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de **Engenharia de Software**, mergulhando fundo no desenvolvimento de código e no processo de software nesse meu tempo na **[Universidade Católica do Salvador](https://www.ucsal.br/)**.
-
-Durante o dia, estou estudando **estruturas de dados, algoritmos e lógica de programação**, enquanto escrevo código principalmente em **Java, C# ou JavaScript**.
-
-Quando não estou estudando ou treinando lógica de programação, geralmente você pode me encontrar **escutando uma música, lendo um livro ou jogando minha franquia favorita: [The Legend of Zelda](https://zelda.nintendo.com/about/).**
+- 🎓 Estudante de **Engenharia de Software** na **Universidade Católica do Salvador**.
+- ☕ Desenvolvendo projetos com Java, C# e MySQL.
+- 💡 Estudando sistemas operacionais e lógica de programação.
+- 🎵 Apreciador da música.
+- 🎮 Fã do universo de [The Legend of Zelda](https://zelda.nintendo.com/about/).
 
 ---
 
